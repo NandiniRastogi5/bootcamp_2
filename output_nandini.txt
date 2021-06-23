@@ -1,0 +1,8 @@
+enter city name : moradabad
+-----------------------------------------------------------
+weather stats for - MORADABAD || 23 Jun 2021 | 09 13 53 AM
+-----------------------------------------------------------
+current temperature is : 40.26 deg C
+current weather desc : clear sky
+current humidity     : 21 %
+current ind speed    : 1.86 kmph
